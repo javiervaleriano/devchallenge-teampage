@@ -36,10 +36,10 @@
 ## Overview | Visión general
 
 ### Desktop | Escritorio
-![Desktop screenshot | Screenshot de escritorio](./screenshots/desktop_ss.png)
+![Desktop screenshot | Screenshot de escritorio](./desktop_ss.png)
 
 ### Mobile | Móvil
-<img src="./screenshots/mobile_ss.png" width="300" height="auto" />
+<img src="./mobile_ss.png" width="300" height="auto" />
 
 Hello everyone, I hope you are well. This is my [solution]() to [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) from Devchallenges.io. |
 Hola a todos, espero que estén bien. Esta es mi [solución]() al [desafío](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) de Devchallenges.io
