@@ -78,4 +78,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Devchallenges profile | Perfil de Devchallenges](https://devchallenges.io/portfolio/javiervaleriano)
 - [Codepen](https://codepen.io/javiervaleriano)
 - GitHub: [@javiervaleriano](https://github.com/javiervaleriano)
+- Instagram: [@javiervalerianoz](https://www.instagram.com/javiervalerianoz/)
 - Twitter: [@javaleriano2](https://twitter.com/javaleriano2)
