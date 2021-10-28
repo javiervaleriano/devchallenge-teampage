@@ -26,10 +26,11 @@
 
 ## Table of Contents | Tabla de contenido
 
-- [Overview | Visión general](#overview)
-  - [Built With | Construido con](#built-with)
-- [Features | Características](#features)
-- [Contact | Contacto](#contact)
+- [Overview | Visión general](overview--visi%C3%B3n-general)
+  - [Built With | Construido con](#built-with--construido-con)
+- [Features | Características](#features--caracter%C3%ADsticas)
+- [Acknowledgements | Agradecimientos](#acknowledgements--agradecimientos)
+- [Contact | Contacto](#contact--contacto)
 
 <!-- OVERVIEW -->
 
