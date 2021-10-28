@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://javiervaleriano.github.io/devchallenge-teampage/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/VSJLesV9fTgIz5ut4kMs">
       Solution / Solución
     </a>
     <span> | </span>
@@ -41,10 +41,10 @@
 ### Mobile | Móvil
 <img src="./mobile_ss.png" width="300" height="auto" />
 
-Hello everyone, I hope you are well. This is my [solution]() to [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) from Devchallenges.io. |
-Hola a todos, espero que estén bien. Esta es mi [solución]() al [desafío](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) de Devchallenges.io
+Hello everyone, I hope you are well. This is my [solution](https://devchallenges.io/solutions/VSJLesV9fTgIz5ut4kMs) to [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) from Devchallenges.io. |
+Hola a todos, espero que estén bien. Esta es mi [solución](https://devchallenges.io/solutions/VSJLesV9fTgIz5ut4kMs) al [desafío](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) de Devchallenges.io
 
-Here you can see my [demo](). | Aquí pueden ver mi [demo]().
+Here you can see my [demo](https://javiervaleriano.github.io/devchallenge-teampage/). | Aquí pueden ver mi [demo](https://javiervaleriano.github.io/devchallenge-teampage/).
 
 This time I take advantage of the use of JavaScript to make CSS animations according to the width of the screen, something that had not occurred to me to do before. I also give a random link to the footer link. |
 En esta ocasión aprovecho el uso de JavaScript para realizar animaciones con CSS según el ancho de la pantalla, algo que no se me había ocurrido hacer antes. También otorgo un enlace aleatorio al link del footer.
