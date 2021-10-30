@@ -44,6 +44,39 @@ function greater990px(array) {
 }
 
 
+/* Identify when a change in screen width occurs to fix transition conflicts |
+Identifica cuando ocurre un cambio en la anchura de la pantalla para arreglar conflictos de transición */
+window.addEventListener('resize', function () {
+    /* Remove the wrong classes and add those corresponding to the width of the screen |
+     Elimina las clases erróneas y agrega las correspondientes a la anchura de la pantalla */
+
+    let width = window.innerWidth;
+
+    if (width < 990) {
+        allCards.forEach(function (card, i) {
+            card.classList.remove('greater-from-left', 'greater-from-right', 'greater-center');
+
+            if (i === 2) card.style.removeProperty('left');
+        });
+
+        less990px(allCards);
+    } else {
+        allCards.forEach(function (card, i) {
+            card.classList.remove('less-from-left', 'less-from-right');
+
+            if (i === 1 || i === 3) {
+                card.style.removeProperty('left');
+            } else if (i === 4) {
+                card.style.removeProperty('right');
+            }
+            
+        });
+
+        greater990px(allCards);
+    }
+});
+
+
 /* Footer link settings |
  Configuración del enlace del Footer */
 const footerLink = document.querySelector('#footer a'),
